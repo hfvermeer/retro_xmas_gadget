@@ -1,0 +1,287 @@
+(footprint "KH-SS12F23-G6"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "CuK miniature slide switch, OS series, SPDT, right angle, http://www.ckswitches.com/media/1428/os.pdf")
+	(tags "switch SPDT")
+	(property "Reference" "SW3"
+		(at 1.4 -3.6 180)
+		(layer "F.SilkS")
+		(uuid "fccb482b-7b47-4f0d-9fb5-7678a11ea7d1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SW_SPDT"
+		(at 1.6 13.8 180)
+		(layer "F.Fab")
+		(uuid "33a27b1c-021e-46d8-b1af-4cf4dd154700")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "Button_Switch_THT:SW_Slide_SPDT_Angled_CK_OS102011MA1Q"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "80fbeae6-e0ad-4f87-9372-61b6b78324e6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0.25 5.7 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ecd90c39-eced-402d-8433-0a22566767ef")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Switch, single pole double throw"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c9d761f6-918b-42c6-bb0b-68d54fed0425")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -3.096 6.858)
+		(end -0.048 6.858)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1ae844d5-0154-4128-a47a-15e4c2d80df3")
+	)
+	(fp_line
+		(start 1.984 6.858)
+		(end 9.096 6.858)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "891a822b-ffc4-40ed-b747-1cb907ed4731")
+	)
+	(fp_line
+		(start -4.62 -2.032)
+		(end 10.62 -2.032)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7b209ffc-3f42-476c-863e-f144709cca7c")
+	)
+	(fp_line
+		(start -4.62 7.368)
+		(end -4.62 -2.032)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9f32ad69-cf74-4abd-8339-3c53bc253f70")
+	)
+	(fp_line
+		(start 10.62 -2.032)
+		(end 10.62 7.368)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "98b9f2d2-9b92-41c9-846d-b7f527d328db")
+	)
+	(fp_line
+		(start 10.62 7.368)
+		(end -4.62 7.368)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "94fa01ca-20cb-4e32-9fec-0a466d0f1b80")
+	)
+	(fp_line
+		(start -3.096 1.016)
+		(end -3.096 6.858)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6dcba54c-c0f3-415d-92ac-01d0acae87b3")
+	)
+	(fp_line
+		(start -3.096 1.016)
+		(end 9.096 1.016)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7c6baf53-b3f3-423f-a02a-914796a76967")
+	)
+	(fp_line
+		(start -3.096 6.858)
+		(end 9.096 6.858)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4e18197b-8e67-4337-aa6f-76bd4a3bd5f4")
+	)
+	(fp_line
+		(start -0.016 10.89)
+		(end -0.016 6.89)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4dd2fc4b-b6aa-493c-8ae2-882ba9e9ddf6")
+	)
+	(fp_line
+		(start 1.984 6.89)
+		(end 1.984 10.89)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "eb1cb6c0-8ac2-49e1-bde3-c4e5e93235ab")
+	)
+	(fp_line
+		(start 1.984 10.89)
+		(end -0.016 10.89)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "10627bc3-f25d-46ef-b98b-9d223bc8607f")
+	)
+	(fp_line
+		(start 9.096 6.85)
+		(end 9.096 1.016)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8f1d29d8-bc7a-4b22-ac5c-ac1b14351617")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 2.55 7.4 180)
+		(layer "F.Fab")
+		(uuid "cc2fd2bd-38e4-4190-b3d1-4c7eeec212d1")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+			)
+		)
+	)
+	(pad "1" thru_hole oval
+		(at 0 0)
+		(size 2 3)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask" "In1.Cu" "In2.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu"
+			"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
+			"In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu"
+			"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
+			"In29.Cu" "In30.Cu"
+		)
+		(remove_unused_layers no)
+		(uuid "e3b37faf-0b58-429c-b4f1-3a5a2f6b67e6")
+	)
+	(pad "2" thru_hole oval
+		(at 3 0)
+		(size 2 3)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask" "In1.Cu" "In2.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu"
+			"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
+			"In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu"
+			"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
+			"In29.Cu" "In30.Cu"
+		)
+		(remove_unused_layers no)
+		(uuid "d14e9edf-a0cf-40d1-a4a7-61ea9d39943a")
+	)
+	(pad "3" thru_hole oval
+		(at 6 0)
+		(size 2 3)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask" "In1.Cu" "In2.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu"
+			"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
+			"In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu"
+			"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
+			"In29.Cu" "In30.Cu"
+		)
+		(remove_unused_layers no)
+		(uuid "0ef6d105-2697-47eb-8b28-64d453587ef8")
+	)
+	(pad "4" thru_hole oval
+		(at 9.1 0.2)
+		(size 2.2 3.5)
+		(drill oval 1.2 1.8)
+		(layers "*.Cu" "*.Mask" "In1.Cu" "In2.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu"
+			"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
+			"In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu"
+			"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
+			"In29.Cu" "In30.Cu"
+		)
+		(remove_unused_layers no)
+		(uuid "e860225f-71e2-48bb-a0be-78dd5f9b797f")
+	)
+	(pad "5" thru_hole oval
+		(at -3.1 0.2)
+		(size 2.2 3.5)
+		(drill oval 1.2 1.8)
+		(layers "*.Cu" "*.Mask" "In1.Cu" "In2.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu"
+			"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
+			"In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu"
+			"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
+			"In29.Cu" "In30.Cu"
+		)
+		(remove_unused_layers no)
+		(uuid "eee9e553-dc1a-4480-9289-7557f4ba6d0c")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_Slide_SPDT_Angled_CK_OS102011MA1Q.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

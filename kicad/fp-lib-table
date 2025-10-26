@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KH-SS12F23-G6")(type "KiCad")(uri "${KIPRJMOD}/footprints/KH-SS12F23-G6.pretty")(options "")(descr ""))
+)
