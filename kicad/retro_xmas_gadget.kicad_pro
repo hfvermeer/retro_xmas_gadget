@@ -567,10 +567,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../../../../media/hfvermeer/engineering2/retro_xmas_gift/retro_xmas_gadget.step",
+      "step": "../../../../../media/hfvermeer/engineering3/retro_xmas_gift/retro_xmas_gadget_v3.step",
       "svg": "",
       "vrml": ""
     },
