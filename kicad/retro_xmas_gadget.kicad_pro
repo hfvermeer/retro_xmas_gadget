@@ -58,7 +58,72 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "hole_clearance|32170300|88007000|c33f293a-ec62-44ab-afc6-26be1676a833|c8c39c73-2764-4586-9cab-85478c62140a",
+          ""
+        ],
+        [
+          "hole_clearance|32170300|88007000|c33f293a-ec62-44ab-afc6-26be1676a833|ee8ee000-2be9-4e1a-9b80-96afdf2948ac",
+          ""
+        ],
+        [
+          "hole_clearance|32170300|94107000|263b9fcc-af01-4f08-b89d-e2c97ee00488|ac81375b-9691-46ea-ae1b-feb0e06be8c4",
+          ""
+        ],
+        [
+          "hole_clearance|32170300|94107000|263b9fcc-af01-4f08-b89d-e2c97ee00488|e0a5ab20-d3d7-4fe8-beaa-cc95e3d8037c",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|37080000|53340000|ef091f23-3498-40a6-9268-14a7a1162c54|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|43484800|124587000|cffb3ce5-4eb8-4d4d-becd-e22da73fe8ed|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|60010000|72802000|72cf84b1-187b-4963-b342-a822dc40bda5|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|61372000|77165200|e3b0a99b-4d1f-4538-a329-f3278e0d3e60|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|83762500|56001000|e71dc260-6e1d-4bc7-ae32-0c17feb904a0|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|95850000|91580000|fcc1fdb5-3d31-414d-8535-2931e6f7c14c|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_edge_clearance|101600000|100780000|c0804026-0366-4e76-93c2-8b6ab1af7214|9fd1f6c9-32ca-44d4-805f-81ae394f6b25",
+          ""
+        ],
+        [
+          "silk_edge_clearance|101600000|100780000|c0804026-0366-4e76-93c2-8b6ab1af7214|f4b46d7d-e4ea-4834-b554-e538e806209a",
+          ""
+        ],
+        [
+          "silk_edge_clearance|101600000|82380000|c0804026-0366-4e76-93c2-8b6ab1af7214|726575e6-10f2-4e4b-8807-6761e6c2deba",
+          ""
+        ],
+        [
+          "silk_edge_clearance|77620000|50800000|ebdfcee4-560d-42ff-8c90-f9583b358581|a378e10b-ad12-473d-80a8-a0f2cecd6e5d",
+          ""
+        ],
+        [
+          "silk_edge_clearance|89420000|50800000|ebdfcee4-560d-42ff-8c90-f9583b358581|382ee98e-1d7d-4a02-a7c3-086d4fadc344",
+          ""
+        ],
+        [
+          "silk_over_copper|31242000|94931460|75143e1e-eadf-4dc0-8d42-808b0b60536d|00000000-0000-0000-0000-000000000000",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -136,7 +201,7 @@
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
-        "min_through_hole_diameter": 0.3,
+        "min_through_hole_diameter": 0.2,
         "min_track_width": 0.0,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
@@ -191,7 +256,8 @@
         0.0,
         0.0,
         0.2,
-        0.4
+        0.4,
+        0.6
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -559,6 +625,10 @@
       {
         "netclass": "Power",
         "pattern": "VAA"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "VBUS"
       }
     ]
   },
