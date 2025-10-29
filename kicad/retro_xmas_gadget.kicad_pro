@@ -118,10 +118,6 @@
         [
           "silk_edge_clearance|89420000|50800000|ebdfcee4-560d-42ff-8c90-f9583b358581|382ee98e-1d7d-4a02-a7c3-086d4fadc344",
           ""
-        ],
-        [
-          "silk_over_copper|31242000|94931460|75143e1e-eadf-4dc0-8d42-808b0b60536d|00000000-0000-0000-0000-000000000000",
-          ""
         ]
       ],
       "meta": {
@@ -640,7 +636,7 @@
       "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../../../../media/hfvermeer/engineering3/retro_xmas_gift/retro_xmas_gadget_v3.step",
+      "step": "../../../../../media/hfvermeer/engineering3/retro_xmas_gift/retro_xmas_gadget_v4.step",
       "svg": "",
       "vrml": ""
     },
