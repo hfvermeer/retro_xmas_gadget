@@ -12732,7 +12732,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm_ThermalVias"
+		(property "Footprint" "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm_ThermalVias"
 			(at 119.38 153.67 0)
 			(effects
 				(font
@@ -13778,7 +13778,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "62040705-9762-43bd-8ffe-8026431f60ed")
 		(property "Reference" "R17"
 			(at 27.94 123.19 0)
@@ -16422,7 +16422,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm_ThermalVias"
+		(property "Footprint" "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm_ThermalVias"
 			(at 46.99 133.35 0)
 			(effects
 				(font
@@ -17560,7 +17560,7 @@
 				)
 			)
 		)
-		(property "Value" "BAT54J"
+		(property "Value" "CRS08"
 			(at 56.1975 29.21 0)
 			(effects
 				(font
@@ -17568,7 +17568,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 55.88 33.02 0)
 			(effects
 				(font
@@ -18083,7 +18083,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "cfa5d1f3-4c65-46c0-bf79-82f07c569573")
 		(property "Reference" "R23"
 			(at 24.13 145.034 0)
@@ -18093,7 +18093,7 @@
 				)
 			)
 		)
-		(property "Value" "5.1k"
+		(property "Value" "0R"
 			(at 24.13 147.574 0)
 			(effects
 				(font
