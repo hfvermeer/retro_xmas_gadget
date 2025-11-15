@@ -60,6 +60,14 @@
       ],
       "drc_exclusions": [
         [
+          "courtyards_overlap|76810000|71566000|72cf84b1-187b-4963-b342-a822dc40bda5|aaf6b80b-bcfd-42e1-9293-58539f253c63",
+          ""
+        ],
+        [
+          "courtyards_overlap|76875000|83398059|72cf84b1-187b-4963-b342-a822dc40bda5|fcc1fdb5-3d31-414d-8535-2931e6f7c14c",
+          ""
+        ],
+        [
           "hole_clearance|32170300|88007000|c33f293a-ec62-44ab-afc6-26be1676a833|c8c39c73-2764-4586-9cab-85478c62140a",
           ""
         ],
@@ -76,19 +84,23 @@
           ""
         ],
         [
-          "lib_footprint_mismatch|37080000|53340000|ef091f23-3498-40a6-9268-14a7a1162c54|00000000-0000-0000-0000-000000000000",
+          "lib_footprint_mismatch|29205300|91057000|4124c743-4200-4bc5-9916-052ae89ec8cf|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "lib_footprint_mismatch|60010000|72802000|72cf84b1-187b-4963-b342-a822dc40bda5|00000000-0000-0000-0000-000000000000",
+          "lib_footprint_mismatch|39878000|53340000|ef091f23-3498-40a6-9268-14a7a1162c54|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "lib_footprint_mismatch|83762500|56001000|e71dc260-6e1d-4bc7-ae32-0c17feb904a0|00000000-0000-0000-0000-000000000000",
+          "lib_footprint_mismatch|43484800|124587000|cffb3ce5-4eb8-4d4d-becd-e22da73fe8ed|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "lib_footprint_mismatch|95850000|91580000|fcc1fdb5-3d31-414d-8535-2931e6f7c14c|00000000-0000-0000-0000-000000000000",
+          "lib_footprint_mismatch|75865500|77165200|e3b0a99b-4d1f-4538-a329-f3278e0d3e60|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|85540500|56388000|e71dc260-6e1d-4bc7-ae32-0c17feb904a0|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
@@ -104,11 +116,15 @@
           ""
         ],
         [
-          "silk_edge_clearance|77620000|50800000|ebdfcee4-560d-42ff-8c90-f9583b358581|a378e10b-ad12-473d-80a8-a0f2cecd6e5d",
+          "silk_edge_clearance|82498000|50800000|ebdfcee4-560d-42ff-8c90-f9583b358581|2188cb4a-3374-43d7-9eab-93a0c40438a8",
           ""
         ],
         [
-          "silk_edge_clearance|89420000|50800000|ebdfcee4-560d-42ff-8c90-f9583b358581|382ee98e-1d7d-4a02-a7c3-086d4fadc344",
+          "silk_edge_clearance|88698000|50800000|ebdfcee4-560d-42ff-8c90-f9583b358581|7127e14e-1179-4447-8683-123d13b299c3",
+          ""
+        ],
+        [
+          "silk_edge_clearance|98545381|50875632|687f1189-a369-4029-8dbc-51fdf408d18b|f06d2b9f-c036-40fc-b5a7-af37d916166b",
           ""
         ]
       ],
@@ -628,7 +644,7 @@
       "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../../../../media/hfvermeer/engineering3/retro_xmas_gift/retro_xmas_gadget_v4.step",
+      "step": "../../../../../media/hfvermeer/engineering3/retro_xmas_gift/retro_xmas_gadget_v7.step",
       "svg": "",
       "vrml": ""
     },
