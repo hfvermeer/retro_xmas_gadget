@@ -6,7 +6,7 @@ This year my niece and nephew, who are 8 and 10 became more aware of what I do f
 
 I have stumbled on Megazoid's [design](https://www.hackster.io/megazoid/crokpocket-a0ff83) of his original CrokPocket which I really liked, but I preferred a larger screen. I also had some leftover components such as a few hundred SDHD 4gb memory cards and a stack of 1900mah batteries that I could use for this design to cut cost. And I preferred the CP2102 over the CH340G, and connectors over soldering for the display. Thus the slightly larger CrokPocket XL was born.
 
-Even though this DIY handheld doesn't compare to many linux based emulator machines that are out there, it can't compete to something that you have build yourself. And I actually find that the keypad feels more snappy, I much prefer the shorter throw and click.
+Even though this DIY handheld doesn't compare to many linux based emulator machines that are out there, it can't compete to something that you have build yourself. And I actually find that the keypad feels more snappy, I much prefer the shorter throw and click. Featuring the [Retro-Go](https://github.com/ducalex/retro-go) open source firmware I think it can stand on it's own, supporting many games on NES, SNES (slow), Gameboy, Sega Master System, Mega Drive, Game Gear, Colecovision, NEX PC Engine, Atari Lynx and off course, DOOM.
 
 ## Instructions
 
