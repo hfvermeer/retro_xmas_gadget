@@ -34,6 +34,6 @@ Even though this DIY handheld doesn't compare to many linux based emulator machi
     * Move Screw holes to corners
     * Add Load-sharing Circuit for charging
 
-* Version 
+* Version 1.1.0
     * Footprint Correction for Q3
     * Change values for thermal protection resistors, R17, R23
