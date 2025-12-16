@@ -37,3 +37,9 @@ Even though this DIY handheld doesn't compare to many linux based emulator machi
 * Version 1.1.0
     * Footprint Correction for Q3
     * Change values for thermal protection resistors, R17, R23
+
+* Known Issues
+    * Reset when unplugging USB
+    * Batt voltage measurement when USB plugged in
+    * Guide marking for screen
+    * More Decoupling for 3.3V
