@@ -19430,7 +19430,7 @@
 				)
 			)
 		)
-		(property "Value" "AP3407A"
+		(property "Value" "SI2301CDS"
 			(at 344.17 229.87 90)
 			(effects
 				(font
